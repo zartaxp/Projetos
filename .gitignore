@@ -1,0 +1,7 @@
+# Ignorar diretório AppData
+AppDara/
+
+#Ignorar arquivos temporários
+*.lock
+*.tmp
+*.log
